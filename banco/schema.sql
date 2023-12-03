@@ -22,6 +22,7 @@ SHOW FIElDS FROM jogos;
 CREATE TABLE Plataformas (
     id INT PRIMARY KEY,
     nome VARCHAR(255)NOT NULL,
+
 );
 
 
